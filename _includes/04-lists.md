@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* crpyto
+* AI
+* spacex
+  * going to mars
+* tesla
